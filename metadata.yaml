@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The War History of the 4th Battalion The London Regiment (Royal Fusiliers)
   1914-1919
 url: http://www.gutenberg.org/ebooks/50098
